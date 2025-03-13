@@ -1,1 +1,4 @@
-Projeto de Clinica fictícia usando as tags aprendidas no curso de html básico da Dio
+Trilha HTML - Dio.me
+Módulo 01 - Primeiros passos com HTML
+Este projeto consiste em uma página simples para uma clínica fictícia, criada utilizando apenas HTML básico. Ele inclui seções como apresentação da clínica, serviços oferecidos e um formulário de contato. O objetivo do projeto é praticar a estruturação de páginas web com as tags aprendidas no curso de HTML básico da DIO.
+![image](https://github.com/user-attachments/assets/b39279d6-f807-4cb1-b485-f6d42cb21503)
