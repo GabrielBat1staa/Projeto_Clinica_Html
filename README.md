@@ -1,4 +1,4 @@
-# Trilha HTML - Dio.me
+# Trilha HTML - Dio.me (SEGUNDO PROJETO HTML)
 **Módulo 01** - Primeiros passos com HTML
 Este projeto consiste em uma página simples para uma clínica fictícia, criada utilizando apenas HTML básico. Ele inclui seções como apresentação da clínica, serviços oferecidos e um formulário de contato. O objetivo do projeto é praticar a estruturação de páginas web com as tags aprendidas no curso de HTML básico da DIO.
 
